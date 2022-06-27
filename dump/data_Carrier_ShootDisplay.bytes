@@ -1,0 +1,35 @@
+return
+{
+    [12]={
+        ["maxX"]=999,
+        ["maxY"]=70,
+        ["minX"]=-999,
+        ["minY"]=-50,
+        ["shootType"]=12,
+        ["uiName"]="UI_GiantCanon"
+    },
+    [2]={
+        ["maxX"]=999,
+        ["maxY"]=70,
+        ["minX"]=-999,
+        ["minY"]=-60,
+        ["shootType"]=2,
+        ["uiName"]="UI_ChristmasMagic"
+    },
+    [3]={
+        ["maxX"]=999,
+        ["maxY"]=70,
+        ["minX"]=-999,
+        ["minY"]=-50,
+        ["shootType"]=3,
+        ["uiName"]="UI_ChristmasMagic"
+    },
+    [4]={
+        ["maxX"]=999,
+        ["maxY"]=70,
+        ["minX"]=-999,
+        ["minY"]=-50,
+        ["shootType"]=4,
+        ["uiName"]="UI_SkillShoot"
+    }
+}

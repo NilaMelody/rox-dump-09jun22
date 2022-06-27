@@ -1,0 +1,39 @@
+return
+{
+    [1]={
+        ["dropId"]=10553,
+        ["iconPath"]="Icons/CrossRegionKVM/Img_Rank1",
+        ["id"]=1,
+        ["mailId"]=16021,
+        ["max"]=99,
+        ["min"]=1,
+        ["score"]=4
+    },
+    [2]={
+        ["dropId"]=10553,
+        ["iconPath"]="Icons/CrossRegionKVM/Img_Rank1",
+        ["id"]=2,
+        ["mailId"]=16022,
+        ["max"]=199,
+        ["min"]=100,
+        ["score"]=6
+    },
+    [3]={
+        ["dropId"]=10553,
+        ["iconPath"]="Icons/CrossRegionKVM/Img_Rank2",
+        ["id"]=3,
+        ["mailId"]=16023,
+        ["max"]=299,
+        ["min"]=200,
+        ["score"]=8
+    },
+    [4]={
+        ["dropId"]=10553,
+        ["iconPath"]="Icons/CrossRegionKVM/Img_Rank3",
+        ["id"]=4,
+        ["mailId"]=16024,
+        ["max"]=1000,
+        ["min"]=300,
+        ["score"]=10
+    }
+}

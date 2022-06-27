@@ -1,0 +1,36 @@
+return
+{
+    [1]={
+        ["AppleChangeBindingUrl"]="www.baidu.com",
+        ["ByteDanceFBUrl"]="https://www.facebook.com/ROXNextGeneration/",
+        ["ByteDanceMicroSNSUrl"]="https://rox.gnjoy.com.tw/community",
+        ["ChannelID"]=9,
+        ["byteDanceDiagnosisUrl"]="http://gsdk.sgsnssdk.com/network_diagnosis?orientation=portrait",
+        ["facebookRoClubUrl"]="https://www.facebook.com/ROXNextGeneration",
+        ["id"]=1,
+        ["privacyPolicyUrl"]="https://lf16-ga7cdn-alisg.bytedgame.com/obj/sf-game-alisg/ga7/URL/ppnew.html",
+        ["userAgreementUrl"]="https://lf16-j1ovscdn-tw.pxgametw.com/obj/sf-game-alisg/ga7/privacy/pptw.html"
+    },
+    [2]={
+        ["AppleChangeBindingUrl"]="www.baidu.com",
+        ["ByteDanceFBUrl"]="https://www.facebook.com/RagnarokXNextGeneration",
+        ["ByteDanceMicroSNSUrl"]="https://www.facebook.com/RagnarokXNextGeneration",
+        ["ChannelID"]=10,
+        ["byteDanceDiagnosisUrl"]="http://gsdk.sgsnssdk.com/network_diagnosis?orientation=portrait",
+        ["facebookRoClubUrl"]="https://www.facebook.com/RagnarokXNextGeneration",
+        ["id"]=2,
+        ["privacyPolicyUrl"]="https://lf16-ga18cdn-alisg.bytedgame.com/obj/sf-game-alisg/ga18/%E5%8D%8F%E8%AE%AE/ROSEAPrivacyPolicy.html",
+        ["userAgreementUrl"]="https://lf16-ga18cdn-alisg.bytedgame.com/obj/sf-game-alisg/ga18/%E5%8D%8F%E8%AE%AE/ROSEATermsofService.html"
+    },
+    [3]={
+        ["AppleChangeBindingUrl"]="www.baidu.com",
+        ["ByteDanceFBUrl"]="https://www.facebook.com/RagnarokXNextGeneration",
+        ["ByteDanceMicroSNSUrl"]="www.baidu.com",
+        ["ChannelID"]=12,
+        ["byteDanceDiagnosisUrl"]="http://gsdk.sgsnssdk.com/network_diagnosis?orientation=portrait",
+        ["facebookRoClubUrl"]="https://www.facebook.com/RagnarokXNextGeneration",
+        ["id"]=3,
+        ["privacyPolicyUrl"]="https://lf16-ga18cdn-alisg.bytedgame.com/obj/sf-game-alisg/ga18/%E5%8D%8F%E8%AE%AE/ROSEAPrivacyPolicy.html",
+        ["userAgreementUrl"]="https://lf16-ga18cdn-alisg.bytedgame.com/obj/sf-game-alisg/ga18/%E5%8D%8F%E8%AE%AE/ROSEATermsofService.html"
+    }
+}
